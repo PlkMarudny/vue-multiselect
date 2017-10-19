@@ -337,7 +337,7 @@ fieldset[disabled] .multiselect {
   display: block;
   position: relative;
   width: 100%;
-  min-height: 40px;
+  min-height: 20px;
   text-align: left;
   color: #35495e;
 }
